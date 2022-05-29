@@ -1,0 +1,4 @@
+﻿  OOP course work.cpp
+D:\VS\OOP course work\OOP course work.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS\OOP course work\OOP course work.cpp(419,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OOP course work.vcxproj -> D:\VS\OOP course work\x64\Debug\OOP course work.exe
